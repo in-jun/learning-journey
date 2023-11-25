@@ -50,6 +50,8 @@
 
 > Concurrent Programming
 
+> The Rust Programming Language
+
 #
 
 # 배울 것들
