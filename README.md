@@ -40,6 +40,8 @@
 
 > RUST 언어
 
+> JAVA
+
 > 리눅스
 
 #
@@ -52,11 +54,11 @@
 
 > The Rust Programming Language
 
+> 점프 투 자바
+
 #
 
 # 배울 것들
-
-> JAVA
 
 > JAVA spring boot
 
@@ -73,8 +75,6 @@
 #
 
 # 읽을 책
-
-> 점프 투 자바
 
 > 스프링 부트 3 백엔드 개발자 되기
 
