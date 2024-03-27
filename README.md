@@ -26,6 +26,8 @@
 
 > C언어 입문
 
+> 점프 투 자바
+
 #
 
 # 배우고 있는 것들
@@ -53,8 +55,6 @@
 > Concurrent Programming
 
 > The Rust Programming Language
-
-> 점프 투 자바
 
 #
 
