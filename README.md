@@ -56,6 +56,8 @@
 
 > The Rust Programming Language
 
+> ZERO TO PRODUCTION IN RUST
+
 #
 
 # 배울 것들
@@ -87,5 +89,7 @@
 > 말하기 원칙
 
 > Good Code, Bad Code
+
+> 제텔카스텐
 
 </div>
